@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://ji6czd.github.io/making_radio"
+baseURL = "https://lab.rd01.net/"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
