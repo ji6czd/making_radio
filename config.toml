@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://kat0h.github.io/hugo-blog-template"
+baseURL = "https://ji6czd/github.com/making_radio
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
@@ -7,20 +7,20 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = "hugo-blog-template"
+title = "Making Radio Project"
 
 theme = "mainroad"
 paginate = 20
 
 # 自己紹介
 [Author]
-    name = "Author"
-    bio = "ここに自己紹介を入れることができます"
+    name = "KIRIAKE Masanori"
+    bio = "プログラマみたいなエンジニアみたいな音楽やってるみたいな人"
     avatar = "img/avatar.png"
 
 [Params]
     customCSS = ["css/custom.css"]
-    copyright = "Author"
+    copyright = "Seiken"
     readmore = true
     authorbox = true
     post_meta = ["date", "categories"]
@@ -32,8 +32,8 @@ paginate = 20
 
 # SNS等のユーザー名
 [Params.widgets.social]
-  twitter = "uvrub"
-  github = "kato-k"
+  twitter = "ji6czd"
+  github = "ji6czd"
 
 [Params.sidebar]
     home = "right"
